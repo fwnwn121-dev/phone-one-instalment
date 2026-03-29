@@ -66,6 +66,7 @@ margin: 0;
     align-items: center;
     justify-content: center;
     border-bottom: .5px solid rgb(17,26,32);
+    overflow-x: hidden;
 }
 
 .part3{
@@ -75,6 +76,7 @@ margin: 0;
     align-items: center;
     justify-content: center;
     border-bottom: .5px solid rgb(17,26,32);
+    overflow-x: hidden;
 }
 
 .p1-btns{
