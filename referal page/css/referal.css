@@ -43,7 +43,7 @@ margin: 0;
 }
 .part1{
     width: 100%;
-    height: 90dvh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -61,7 +61,7 @@ margin: 0;
 }
 .part2{
     width: 100%;
-    height: 80dvh;
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,7 +71,7 @@ margin: 0;
 
 .part3{
     width:100%;
-    height: 80dvh;
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -85,7 +85,7 @@ margin: 0;
     justify-content: space-around;
     flex-direction: column;
     width: 100%;
-    height: 20dvh;
+    height: 20vh;
     border-bottom: .5px solid rgb(17,26,32);
 }
 .btn1{
@@ -140,7 +140,7 @@ margin: 0;
 }
 .part1{
     width: 100%;
-    height: 60dvh;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -152,7 +152,7 @@ margin: 0;
 
 .part2{
     width: 100%;
-    height: 50dvh;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -164,7 +164,7 @@ margin: 0;
 
 .part3{
     width: 100%;
-    height: 50dvh;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
