@@ -76,5 +76,33 @@ snaptr('track', 'PAGE_VIEW');
             </div>
         </div>
     </div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    
+    const links = document.querySelectorAll("a");
+
+    // Custom Event 1 (Top WhatsApp)
+    links[0].addEventListener("click", function () {
+        snaptr('track', 'CUSTOM_EVENT_1');
+    });
+
+    // Custom Event 2 (Top Form)
+    links[1].addEventListener("click", function () {
+        snaptr('track', 'CUSTOM_EVENT_2');
+    });
+
+    // Custom Event 3 (Bottom WhatsApp)
+    links[2].addEventListener("click", function () {
+        snaptr('track', 'CUSTOM_EVENT_3');
+    });
+
+    // Custom Event 4 (Bottom Form)
+    links[3].addEventListener("click", function () {
+        snaptr('track', 'CUSTOM_EVENT_4');
+    });
+
+});
+</script>
+    
 </body>
 </html>
