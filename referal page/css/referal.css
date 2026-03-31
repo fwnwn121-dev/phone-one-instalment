@@ -39,6 +39,7 @@ margin: 0;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+     border-radius: 10px;
 }
 .part1{
     width: 110%;
